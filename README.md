@@ -81,7 +81,8 @@ python main.py
 ```
 SpotyGuide/
 │
-├─ bot.py           # основной скрипт бота
+├─ bot.py            # основной скрипт бота
+├─ config.py         # конфигурационный файл
 ├─ db.py             # работа с базой данных
 ├─ requirements.txt  # зависимости
 ```
